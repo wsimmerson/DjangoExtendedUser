@@ -8,3 +8,5 @@ Usage:
   * set AUTH_USER_MODEL = 'users.ExtendedUser' in settings.py
   * manage.py makemigrations users
   * manage.py migrate
+
+My blog about this process: https://kodici.com/2019/06/22/django-extending-the-user-model/
